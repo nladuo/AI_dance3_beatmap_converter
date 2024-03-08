@@ -1,0 +1,1 @@
+{"meta":{"$ver":0,"creator":"","background":"","version":"","id":0,"mode":0,"time":1669440142,"song":{"title":"Oshama Scramble! ","artist":"Unknown","id":0},"mode_ext":{"column":4,"bar_begin":0}},"time":[],"effect":[],"note":[],"extra":{"test":{"divide":4,"speed":100,"save":0,"lock":0,"edit_mode":0}}}
